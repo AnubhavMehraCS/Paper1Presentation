@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.8)  12 APR 2021 19:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Arch Linux) (preloaded format=pdflatex 2021.3.8)  16 APR 2021 09:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -784,24 +784,46 @@ File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 
 ] [14
 
+] [15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
+] [20
+
+] [21
+
+] [22
+
+] [23
+
+] [24
+
+] [25
+
 ]
-<./images//thank.jpg, id=400, 746.01291pt x 559.50967pt>
+<./images//thank.jpg, id=693, 746.01291pt x 559.50967pt>
 File: ./images//thank.jpg Graphic file (type jpg)
 <use ./images//thank.jpg>
-Package pdftex.def Info: ./images//thank.jpg  used on input line 90.
+Package pdftex.def Info: ./images//thank.jpg  used on input line 148.
 (pdftex.def)             Requested size: 149.19994pt x 111.89995pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 90.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 148.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 148.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 90.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 148.
  (/usr/share/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-) [15
+) [26
 
  <./images//thank.jpg>]
 \tf@nav=\write6
@@ -816,18 +838,20 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 17975 strings out of 479383
- 344932 string characters out of 5875831
+ 17999 strings out of 479383
+ 345202 string characters out of 5875831
  649376 words of memory out of 5000000
- 34610 multiletter control sequences out of 15000+600000
+ 34611 multiletter control sequences out of 15000+600000
  409767 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,15n,126p,440b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{https://www.youtube.com/watch?v=1Fn_mhBzMkQ} has been referenced but does not exist, replaced by a fixed one
+
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on ComputerHazard.pdf (15 pages, 118892 bytes).
+Output written on ComputerHazard.pdf (26 pages, 144370 bytes).
 PDF statistics:
- 454 PDF objects out of 1000 (max. 8388607)
- 414 compressed objects within 5 object streams
- 31 named destinations out of 1000 (max. 500000)
+ 751 PDF objects out of 1000 (max. 8388607)
+ 698 compressed objects within 7 object streams
+ 54 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
