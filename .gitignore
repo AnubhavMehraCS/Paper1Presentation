@@ -22,7 +22,7 @@
 # *.pdf
 
 ## Generated if empty string is given at "Please type another file name for output:"
-##.pdf
+.pdf
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
@@ -109,11 +109,6 @@ acs-*.bib
 *.glo
 *.gls
 *.glsdefs
-*.lzo
-*.lzs
-
-# uncomment this for glossaries-extra (will ignore makeindex's style files!)
-# *.ist
 
 # gnuplottex
 *-gnuplottex-*
@@ -142,13 +137,11 @@ acs-*.bib
 # listings
 *.lol
 
-# luatexja-ruby
-*.ltjruby
-
 # makeidx
 *.idx
 *.ilg
 *.ind
+*.ist
 
 # minitoc
 *.maf
@@ -212,10 +205,6 @@ pythontex-files-*/
 # todonotes
 *.tdo
 
-# vhistory
-*.hst
-*.ver
-
 # easy-todo
 *.lod
 
@@ -228,9 +217,8 @@ pythontex-files-*/
 # xindy
 *.xdy
 
-# xypic precompiled matrices and outlines
+# xypic precompiled matrices
 *.xyc
-*.xyd
 
 # endfloat
 *.ttt
@@ -253,14 +241,8 @@ TSWLatexianTemp*
 # Kile
 *.backup
 
-# gummi
-.*.swp
-
 # KBibTeX
 *~[0-9]*
-
-# TeXnicCenter
-*.tps
 
 # auto folder when using emacs and auctex
 ./auto/*
@@ -271,6 +253,3 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
-
-# Makeindex log files
-*.lpz
