@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.4.23)  11 JUL 2021 22:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.4.23)  11 JUL 2021 23:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -649,7 +649,7 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count310
 \l__pdf_internal_box=\box73
 )
-No file ComputerHazard.aux.
+(./ComputerHazard.aux)
 \openout1 = `ComputerHazard.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -668,6 +668,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -742,6 +743,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 11.
 LaTeX Info: Redefining \pageref on input line 11.
 LaTeX Info: Redefining \nameref on input line 11.
+
+(./ComputerHazard.out) (./ComputerHazard.out)
 \@outlinefile=\write5
 \openout5 = `ComputerHazard.out'.
 
@@ -821,9 +824,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 (d:/texlive/2020/texmf-dist/tex/latex/translator/translator-theorem-dictionary-
 English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-No file ComputerHazard.nav.
-[1
+) (./ComputerHazard.nav) [1
 
 {d:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
@@ -886,7 +887,7 @@ File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ] [25
 
 ]
-<./images/thank.jpg, id=692, 746.01291pt x 559.50967pt>
+<./images/thank.jpg, id=693, 746.01291pt x 559.50967pt>
 File: ./images/thank.jpg Graphic file (type jpg)
 <use ./images/thank.jpg>
 Package pdftex.def Info: ./images/thank.jpg  used on input line 142.
@@ -927,24 +928,18 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 143.
  (./ComputerHazard.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 143.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 143.
+Package rerunfilecheck Info: File `ComputerHazard.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
-
-Package rerunfilecheck Warning: File `ComputerHazard.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `ComputerHazard.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 18017 strings out of 480608
- 346187 string characters out of 5907536
- 595894 words of memory out of 5000000
- 33417 multiletter control sequences out of 15000+600000
+ 18045 strings out of 480608
+ 346487 string characters out of 5907536
+ 596067 words of memory out of 5000000
+ 33437 multiletter control sequences out of 15000+600000
  538675 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,15n,67p,803b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -957,7 +952,7 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><d:/texlive/2020/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmss8.pfb><d:/texlive/2020/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmssbx10.pfb><d:/texlive/2020/texmf-dist/fonts/type1/publ
 ic/cm-super/sfss1095.pfb>
-Output written on ComputerHazard.pdf (26 pages, 143964 bytes).
+Output written on ComputerHazard.pdf (26 pages, 144650 bytes).
 PDF statistics:
  751 PDF objects out of 1000 (max. 8388607)
  698 compressed objects within 7 object streams
